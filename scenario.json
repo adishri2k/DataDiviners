@@ -1,0 +1,139 @@
+{
+  "name": "village_to_highway_merge_demo",
+  "vehicles": [
+    {
+      "type": "tractor",
+      "x": -143.0,
+      "y": 0.5,
+      "speed": 0.0,
+      "lane": "village",
+      "behavior": "slow",
+      "id": "V1"
+    },
+    {
+      "type": "two_wheeler",
+      "x": -55.0,
+      "y": -0.5,
+      "speed": 0.0,
+      "lane": "village",
+      "behavior": "erratic",
+      "id": "V2"
+    },
+    {
+      "type": "car",
+      "x": -54.0,
+      "y": 0,
+      "speed": 0.0,
+      "lane": "village",
+      "behavior": "normal",
+      "id": "V3"
+    },
+    {
+      "type": "truck",
+      "x": -117.0,
+      "y": 0.3,
+      "speed": 0.0,
+      "lane": "village",
+      "behavior": "normal",
+      "id": "V4"
+    },
+    {
+      "type": "car",
+      "x": -48.0,
+      "y": -0.2,
+      "speed": 0.0,
+      "lane": "village",
+      "behavior": "normal",
+      "id": "V5"
+    },
+    {
+      "type": "car",
+      "x": 1623.0,
+      "y": 3,
+      "speed": 26,
+      "lane": "highway_north",
+      "behavior": "normal",
+      "id": "V6"
+    },
+    {
+      "type": "bus",
+      "x": 1361.0,
+      "y": -3,
+      "speed": 22,
+      "lane": "highway_south",
+      "behavior": "normal",
+      "id": "V7"
+    },
+    {
+      "type": "car",
+      "x": 1462.0,
+      "y": 3.4,
+      "speed": 24,
+      "lane": "highway_north",
+      "behavior": "normal",
+      "id": "V8"
+    }
+  ],
+  "assets": [
+    {
+      "id": "A1",
+      "type": "pothole",
+      "x": -125.09682372241909,
+      "y": 0.950573689139749
+    },
+    {
+      "id": "A2",
+      "type": "animal",
+      "x": -142.56481854952224,
+      "y": 0.1506219308439128
+    },
+    {
+      "id": "A3",
+      "type": "pothole",
+      "x": -170.5923221868722,
+      "y": 1.0735079515936825
+    },
+    {
+      "id": "A4",
+      "type": "barricade",
+      "x": -49.3548354646486,
+      "y": 0.6526512215012159
+    },
+    {
+      "id": "A5",
+      "type": "barricade",
+      "x": -14.776474543095453,
+      "y": 0.5493009584164147
+    },
+    {
+      "id": "A6",
+      "type": "barricade",
+      "x": -49.67931196732541,
+      "y": 1.649486411160703
+    },
+    {
+      "id": "A7",
+      "type": "animal",
+      "x": -155.6974822020088,
+      "y": 2.1707961453102316
+    },
+    {
+      "id": "A8",
+      "type": "pothole",
+      "x": -71.24509297323853,
+      "y": 0.08868922328573449
+    },
+    {
+      "id": "A9",
+      "type": "barricade",
+      "x": -15.0,
+      "y": 0.8
+    },
+    {
+      "id": "A10",
+      "type": "animal",
+      "x": -120.0,
+      "y": -0.6
+    }
+  ]
+}
